@@ -82,7 +82,7 @@ Next, inside the `<head></head>` tag add `webpush_header` according to your temp
   {{ webpush_header() }}
 </head>
 ```
-Next, inside the `<body></body>` tag, insert `webush_button` where you would like to see the **Subscribe to Push Messaging** Button. Like following
+Next, inside the `<body></body>` tag, insert `webpush_button` where you would like to see the **Subscribe to Push Messaging** Button. Like following
 
 ```html
 <body>
